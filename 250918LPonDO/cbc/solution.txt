@@ -1,0 +1,4 @@
+Optimal - objective value 162.50000000
+      0 x2                  17.5                      -0
+      1 x3                  42.5                      -0
+      2 x1                    40                     2.5
